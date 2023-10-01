@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Bochkov_Mikhail_PRI_120_lab_1/1.0.0": {
+        "runtime": {
+          "Bochkov_Mikhail_PRI_120_lab_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bochkov_Mikhail_PRI_120_lab_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

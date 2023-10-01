@@ -1,0 +1,15 @@
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\bin\Release\net7.0\Bochkov-Mikhail-PRI-120-lab-3.exe
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\bin\Release\net7.0\Bochkov-Mikhail-PRI-120-lab-3.deps.json
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\bin\Release\net7.0\Bochkov-Mikhail-PRI-120-lab-3.runtimeconfig.json
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\bin\Release\net7.0\Bochkov-Mikhail-PRI-120-lab-3.dll
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\bin\Release\net7.0\Bochkov-Mikhail-PRI-120-lab-3.pdb
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\obj\Release\net7.0\Bochkov-Mikhail-PRI-120-lab-3.csproj.AssemblyReference.cache
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\obj\Release\net7.0\Bochkov-Mikhail-PRI-120-lab-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\obj\Release\net7.0\Bochkov-Mikhail-PRI-120-lab-3.AssemblyInfoInputs.cache
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\obj\Release\net7.0\Bochkov-Mikhail-PRI-120-lab-3.AssemblyInfo.cs
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\obj\Release\net7.0\Bochkov-Mikhail-PRI-120-lab-3.csproj.CoreCompileInputs.cache
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\obj\Release\net7.0\Bochkov-Mikhail-PRI-120-lab-3.dll
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\obj\Release\net7.0\refint\Bochkov-Mikhail-PRI-120-lab-3.dll
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\obj\Release\net7.0\Bochkov-Mikhail-PRI-120-lab-3.pdb
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\obj\Release\net7.0\Bochkov-Mikhail-PRI-120-lab-3.genruntimeconfig.cache
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\Bochkov-Mikhail-PRI-120-lab-3\obj\Release\net7.0\ref\Bochkov-Mikhail-PRI-120-lab-3.dll

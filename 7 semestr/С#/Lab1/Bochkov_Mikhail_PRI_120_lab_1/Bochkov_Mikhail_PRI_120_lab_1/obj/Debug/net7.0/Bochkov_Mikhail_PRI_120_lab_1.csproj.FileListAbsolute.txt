@@ -1,0 +1,15 @@
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Lab1\Bochkov_Mikhail_PRI_120_lab_1\Bochkov_Mikhail_PRI_120_lab_1\obj\Debug\net7.0\Bochkov_Mikhail_PRI_120_lab_1.csproj.AssemblyReference.cache
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Lab1\Bochkov_Mikhail_PRI_120_lab_1\Bochkov_Mikhail_PRI_120_lab_1\obj\Debug\net7.0\Bochkov_Mikhail_PRI_120_lab_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Lab1\Bochkov_Mikhail_PRI_120_lab_1\Bochkov_Mikhail_PRI_120_lab_1\obj\Debug\net7.0\Bochkov_Mikhail_PRI_120_lab_1.AssemblyInfoInputs.cache
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Lab1\Bochkov_Mikhail_PRI_120_lab_1\Bochkov_Mikhail_PRI_120_lab_1\obj\Debug\net7.0\Bochkov_Mikhail_PRI_120_lab_1.AssemblyInfo.cs
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Lab1\Bochkov_Mikhail_PRI_120_lab_1\Bochkov_Mikhail_PRI_120_lab_1\obj\Debug\net7.0\Bochkov_Mikhail_PRI_120_lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Lab1\Bochkov_Mikhail_PRI_120_lab_1\Bochkov_Mikhail_PRI_120_lab_1\bin\Debug\net7.0\Bochkov_Mikhail_PRI_120_lab_1.exe
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Lab1\Bochkov_Mikhail_PRI_120_lab_1\Bochkov_Mikhail_PRI_120_lab_1\bin\Debug\net7.0\Bochkov_Mikhail_PRI_120_lab_1.deps.json
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Lab1\Bochkov_Mikhail_PRI_120_lab_1\Bochkov_Mikhail_PRI_120_lab_1\bin\Debug\net7.0\Bochkov_Mikhail_PRI_120_lab_1.runtimeconfig.json
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Lab1\Bochkov_Mikhail_PRI_120_lab_1\Bochkov_Mikhail_PRI_120_lab_1\bin\Debug\net7.0\Bochkov_Mikhail_PRI_120_lab_1.dll
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Lab1\Bochkov_Mikhail_PRI_120_lab_1\Bochkov_Mikhail_PRI_120_lab_1\bin\Debug\net7.0\Bochkov_Mikhail_PRI_120_lab_1.pdb
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Lab1\Bochkov_Mikhail_PRI_120_lab_1\Bochkov_Mikhail_PRI_120_lab_1\obj\Debug\net7.0\Bochkov_Mikhail_PRI_120_lab_1.dll
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Lab1\Bochkov_Mikhail_PRI_120_lab_1\Bochkov_Mikhail_PRI_120_lab_1\obj\Debug\net7.0\refint\Bochkov_Mikhail_PRI_120_lab_1.dll
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Lab1\Bochkov_Mikhail_PRI_120_lab_1\Bochkov_Mikhail_PRI_120_lab_1\obj\Debug\net7.0\Bochkov_Mikhail_PRI_120_lab_1.pdb
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Lab1\Bochkov_Mikhail_PRI_120_lab_1\Bochkov_Mikhail_PRI_120_lab_1\obj\Debug\net7.0\Bochkov_Mikhail_PRI_120_lab_1.genruntimeconfig.cache
+C:\Users\Pipec\Desktop\Лабы\7 семестр\С#\Lab1\Bochkov_Mikhail_PRI_120_lab_1\Bochkov_Mikhail_PRI_120_lab_1\obj\Debug\net7.0\ref\Bochkov_Mikhail_PRI_120_lab_1.dll
